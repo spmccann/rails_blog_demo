@@ -1,0 +1,24 @@
+* {
+  list-style: none;
+  font-family: 'Roboto', sans-serif;
+}
+
+.container {
+  margin: auto;
+  background-color: blanchedalmond;
+  width: 50%;
+  padding: 0px 0px 50px 100px;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+ul {
+  padding: 0px;
+}
+
+.main_head {
+  font-size: 6rem;
+  text-align: center;
+}
